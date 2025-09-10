@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/privateoc/youfyou:latest
+          tags: ghcr.io/privateoc/ryouok:latest
